@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AbinPrasanth/leet-code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AbinPrasanth/leet-code/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/AbinPrasanth/leet-code/tree/master/0742-to-lower-case) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbinPrasanth/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AbinPrasanth/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
