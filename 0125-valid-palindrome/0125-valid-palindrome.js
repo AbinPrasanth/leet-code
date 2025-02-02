@@ -3,7 +3,9 @@
  * @return {boolean}
  */
 var isPalindrome = function(s) {
-    const normalized = s.toLowerCase().replace(/[^a-zA-Z0-9]/g, "");
-    return normalized === normalized.split("").reverse().join("");
+    let cleaned = s.toLowerCase().replace(/[^a-z0-9]/g, '');
+    
+    return cleaned === cleaned.split('').reverse().join('');
 };
-console.log(isPalindrome("Racecar!"));
+
+console.log(isPalindrome(" A racecar"))
