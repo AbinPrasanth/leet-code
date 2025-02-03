@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AbinPrasanth/leet-code/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AbinPrasanth/leet-code/tree/master/0069-sqrtx) |
+| [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AbinPrasanth/leet-code/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
