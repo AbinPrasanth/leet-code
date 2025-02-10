@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AbinPrasanth/leet-code/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AbinPrasanth/leet-code/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
+| [2491-smallest-even-multiple](https://github.com/AbinPrasanth/leet-code/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/AbinPrasanth/leet-code/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
