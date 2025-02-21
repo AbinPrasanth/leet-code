@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AbinPrasanth/leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbinPrasanth/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0742-to-lower-case](https://github.com/AbinPrasanth/leet-code/tree/master/0742-to-lower-case) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AbinPrasanth/leet-code/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
