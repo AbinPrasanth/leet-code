@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbinPrasanth/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AbinPrasanth/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbinPrasanth/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
