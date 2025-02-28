@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2639-separate-the-digits-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/2639-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AbinPrasanth/leet-code/tree/master/0258-add-digits) |
+| [2639-separate-the-digits-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/2639-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
