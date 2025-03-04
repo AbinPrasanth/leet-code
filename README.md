@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/AbinPrasanth/leet-code/tree/master/0742-to-lower-case) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AbinPrasanth/leet-code/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2235-capitalize-the-title](https://github.com/AbinPrasanth/leet-code/tree/master/2235-capitalize-the-title) |
 ## Two Pointers
 |  |
 | ------- |
