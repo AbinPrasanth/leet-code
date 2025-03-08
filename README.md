@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/AbinPrasanth/leet-code/tree/master/0742-to-lower-case) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AbinPrasanth/leet-code/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbinPrasanth/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/AbinPrasanth/leet-code/tree/master/2235-capitalize-the-title) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbinPrasanth/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2639-separate-the-digits-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/2639-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
