@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AbinPrasanth/leet-code/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AbinPrasanth/leet-code/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/AbinPrasanth/leet-code/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
 | [2491-smallest-even-multiple](https://github.com/AbinPrasanth/leet-code/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AbinPrasanth/leet-code/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbinPrasanth/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AbinPrasanth/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbinPrasanth/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -48,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AbinPrasanth/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbinPrasanth/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AbinPrasanth/leet-code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
