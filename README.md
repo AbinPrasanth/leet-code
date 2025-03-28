@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AbinPrasanth/leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbinPrasanth/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AbinPrasanth/leet-code/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/AbinPrasanth/leet-code/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbinPrasanth/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/AbinPrasanth/leet-code/tree/master/0742-to-lower-case) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AbinPrasanth/leet-code/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AbinPrasanth/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AbinPrasanth/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbinPrasanth/leet-code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AbinPrasanth/leet-code/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AbinPrasanth/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
