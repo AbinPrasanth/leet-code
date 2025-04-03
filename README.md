@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AbinPrasanth/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
+| [2238-a-number-after-a-double-reversal](https://github.com/AbinPrasanth/leet-code/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/AbinPrasanth/leet-code/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
