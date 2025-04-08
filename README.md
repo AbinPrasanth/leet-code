@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbinPrasanth/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbinPrasanth/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2639-separate-the-digits-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/2639-separate-the-digits-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbinPrasanth/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
