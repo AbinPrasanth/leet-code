@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
 | [2238-a-number-after-a-double-reversal](https://github.com/AbinPrasanth/leet-code/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/AbinPrasanth/leet-code/tree/master/2491-smallest-even-multiple) |
+| [2752-sum-multiples](https://github.com/AbinPrasanth/leet-code/tree/master/2752-sum-multiples) |
 ## Binary Search
 |  |
 | ------- |
