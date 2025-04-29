@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AbinPrasanth/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
+| [1635-number-of-good-pairs](https://github.com/AbinPrasanth/leet-code/tree/master/1635-number-of-good-pairs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/AbinPrasanth/leet-code/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/AbinPrasanth/leet-code/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/AbinPrasanth/leet-code/tree/master/2752-sum-multiples) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/AbinPrasanth/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbinPrasanth/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/AbinPrasanth/leet-code/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbinPrasanth/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/AbinPrasanth/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AbinPrasanth/leet-code/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AbinPrasanth/leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbinPrasanth/leet-code/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/AbinPrasanth/leet-code/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
