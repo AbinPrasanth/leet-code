@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AbinPrasanth/leet-code/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AbinPrasanth/leet-code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AbinPrasanth/leet-code/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/AbinPrasanth/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AbinPrasanth/leet-code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AbinPrasanth/leet-code/tree/master/0342-power-of-four) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AbinPrasanth/leet-code/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AbinPrasanth/leet-code/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AbinPrasanth/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
