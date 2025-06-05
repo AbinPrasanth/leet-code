@@ -144,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/AbinPrasanth/leet-code/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/AbinPrasanth/leet-code/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/AbinPrasanth/leet-code/tree/master/0620-not-boring-movies) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AbinPrasanth/leet-code/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/AbinPrasanth/leet-code/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
