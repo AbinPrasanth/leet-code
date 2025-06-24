@@ -153,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/AbinPrasanth/leet-code/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/AbinPrasanth/leet-code/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/AbinPrasanth/leet-code/tree/master/1301-reformat-department-table) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/AbinPrasanth/leet-code/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
