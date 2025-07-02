@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/AbinPrasanth/leet-code/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbinPrasanth/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/AbinPrasanth/leet-code/tree/master/2235-capitalize-the-title) |
+| [3617-find-the-original-typed-string-i](https://github.com/AbinPrasanth/leet-code/tree/master/3617-find-the-original-typed-string-i) |
 ## Two Pointers
 |  |
 | ------- |
