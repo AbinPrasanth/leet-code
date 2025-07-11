@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/AbinPrasanth/leet-code/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/AbinPrasanth/leet-code/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1827-invalid-tweets](https://github.com/AbinPrasanth/leet-code/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/AbinPrasanth/leet-code/tree/master/1908-recyclable-and-low-fat-products) |
 ## Tree
 |  |
 | ------- |
