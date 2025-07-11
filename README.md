@@ -157,4 +157,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/AbinPrasanth/leet-code/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/AbinPrasanth/leet-code/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1827-invalid-tweets](https://github.com/AbinPrasanth/leet-code/tree/master/1827-invalid-tweets) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AbinPrasanth/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AbinPrasanth/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AbinPrasanth/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AbinPrasanth/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
