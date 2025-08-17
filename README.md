@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/AbinPrasanth/leet-code/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AbinPrasanth/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2639-separate-the-digits-in-an-array](https://github.com/AbinPrasanth/leet-code/tree/master/2639-separate-the-digits-in-an-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/AbinPrasanth/leet-code/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbinPrasanth/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/AbinPrasanth/leet-code/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
